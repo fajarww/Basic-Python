@@ -1,0 +1,99 @@
+Carmilla;;;Joseph Sheridan Le Fanu;;;November 7, 2003;;;August 6, 2021;;;English;;;Suzanne Shell, Sjaani and PG Distributed Proofreaders;;;\data\books_data\10007-0.txt
+Around the World in Eighty Days;;;Jules Verne;;;January, 1994;;;August 6, 2021;;;English;;;;;;\data\books_data\103-0.txt
+A Modest Proposal For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick;;;Jonathan Swift;;;October, 1997;;;October 17, 2019;;;English;;;An Anonymous Volunteer and David Widger;;;\data\books_data\1080-0.txt
+Alice’s Adventures in Wonderland;;;Lewis Carroll;;;January, 1991;;;October 12, 2020;;;English;;;Arthur DiBianca and David Widger;;;\data\books_data\11-0.txt
+The Secret Garden;;;Frances Hodgson Burnett;;;March 13, 1994;;;March 15, 2021;;;English;;;;;;\data\books_data\113-0.txt
+Through the Looking-Glass, And What Alice Found There;;;Charles Dodgson, AKA Lewis Carroll;;;February, 1991;;;April 28, 2021;;;English;;;David Widger;;;\data\books_data\12-0.txt
+Treasure Island;;;Robert Louis Stevenson;;;March 13, 1994;;;October 28, 2020;;;English;;;Judy Boss, John Hamm, Arthur DiBianca and David Widger;;;\data\books_data\120-0.txt
+The Prince;;;Nicolo Machiavelli;;;March, 1998;;;January 2, 2021;;;English;;;John Bickers, David Widger and Others;;;\data\books_data\1232-0.txt
+Anthem;;;Ayn Rand;;;March, 1998;;;January 21, 2021;;;English;;;An anonymous group of volunteers, and David Widger;;;\data\books_data\1250-0.txt
+Jane Eyre an Autobiography;;;Charlotte Brontë;;;March, 1998;;;December 1, 2020;;;English;;;David Price;;;\data\books_data\1260-0.txt
+Pride and Prejudice;;;Jane Austen;;;June, 1998;;;August 23, 2021;;;English;;;Anonymous Volunteers and David Widger;;;\data\books_data\1342-0.txt
+Les MisérablesComplete in Five Volumes;;;Victor Hugo;;;May, 1994;;;July 20, 2021;;;English;;;Judith Boss and David Widger;;;\data\books_data\135-0.txt
+Anna Karenina;;;Leo Tolstoy;;;July 01, 1998;;;May 22, 2020;;;English;;;David Brannan, Andrew Sly and David Widger.;;;\data\books_data\1399-0.txt
+Great Expectations;;;Charles Dickens;;;July, 1998;;;April 27, 2020;;;English;;;An Anonymous Volunteer and David Widger;;;\data\books_data\1400-0.txt
+Peter Pan Peter Pan and Wendy;;;James M. Barrie;;;July, 1991;;;February 15, 2021;;;English;;;Duncan Research;;;\data\books_data\16-0.txt
+The Awakening and Selected Short Stories;;;Kate Chopin;;;August, 1994;;;February 28, 2021;;;English;;;Judith Boss and David Widger;;;\data\books_data\160-0.txt
+Sense and Sensibility;;;Jane Austen;;;September, 1994;;;March 16, 2021;;;English;;;them, which made;;;\data\books_data\161-0.txt
+BeowulfAn Anglo-Saxon Epic Poem, Translated From The Heyne-Socin Text by Lesslie Hall;;;;;;July 19, 2005;;;February 13, 2021;;;English;;;David Starner, Dainis Millers and the Online Distributed Proofreading Team;;;\data\books_data\16328-0.txt
+The Adventures of Sherlock Holmes;;;Arthur Conan Doyle;;;November 29, 2002;;;May 20, 2019;;;English;;;an anonymous Project Gutenberg volunteer and Jose Menendez;;;\data\books_data\1661-0.txt
+The Yellow Wallpaper;;;Charlotte Perkins Gilman;;;November, 1999;;;January 4, 2021;;;English;;;An Anonymous Volunteer and David Widger;;;\data\books_data\1952-0.txt
+Thus Spake Zarathustra A Book for All and None;;;Friedrich Nietzsche;;;December, 1999;;;July 25, 2021;;;English;;;Sue Asscher and David Widger;;;\data\books_data\1998-0.txt
+Walden;;;Henry David Thoreau;;;January, 1995;;;January 28, 2021;;;English;;;Judith Boss, and David Widger;;;\data\books_data\205-0.txt
+The Call of the Wild;;;Jack London;;;July 1, 2008;;;August 30, 2019;;;English;;;Ryan, Kirstin, Linda and Rick Trapp, and David Widger;;;\data\books_data\215-0.txt
+Heart of Darkness;;;Joseph Conrad;;;February, 1995;;;January 20, 2021;;;English;;;Judith Boss and David Widger;;;\data\books_data\219-0.txt
+The Jungle Book;;;Rudyard Kipling;;;January 16, 2006;;;October 6, 2016;;;English;;;An Anonymous Volunteer and David Widger;;;\data\books_data\236-0.txt
+A Study In Scarlet;;;Arthur Conan Doyle;;;April, 1995;;;September 30, 2016;;;English;;;Roger Squires;;;\data\books_data\244-0.txt
+Memoirs of Extraordinary Popular Delusions and the Madness of Crowds;;;Charles Mackay;;;February 5, 2008;;;June 27, 2021;;;English;;;Jonathan Ingram, Bill Tozier, Barbara Tozier and the Online Distributed Proofreading Team;;;\data\books_data\24518-0.txt
+A Doll’s House;;;Henrik Ibsen;;;March, 2001;;;November 19, 2020;;;English;;;Martin Adamson and David Widger;;;\data\books_data\2542-0.txt
+Crime and Punishment;;;Fyodor Dostoevsky;;;March, 2001;;;August 6, 2021;;;English;;;John Bickers, Dagny and David Widger;;;\data\books_data\2554-0.txt
+Grimms’ Fairy Tales;;;Jacob Grimm and Wilhelm Grimm;;;April, 2001;;;June 28, 2021;;;English;;;Emma Dudding, John Bickers, Dagny and David Widger;;;\data\books_data\2591-0.txt
+Meditations;;;Marcus Aurelius;;;June, 2001;;;March 8, 2021;;;English;;;J. Boulton and David Widger;;;\data\books_data\2680-0.txt
+Moby-Dick; or The Whale;;;Herman Melville;;;June, 2001;;;August 18, 2021;;;English;;;Daniel Lazarus, Jonesey, and David Widger;;;\data\books_data\2701-0.txt
+The Brothers Karamazov;;;Fyodor Dostoyevsky;;;February 12, 2009;;;March 7, 2021;;;English;;;Katerina Ivanovna was added to the material;;;\data\books_data\28054-0.txt
+Dubliners;;;James Joyce;;;September, 2001;;;January 20, 2019;;;English;;;David Reed, Karol Pietrzak and David Widger;;;\data\books_data\2814-0.txt
+The Hound of the Baskervilles;;;Arthur Conan Doyle;;;October, 2001;;;June 27, 2021;;;English;;;Shreevatsa R, and David Widger;;;\data\books_data\2852-0.txt
+The Romance of Lust A classic Victorian erotic novel;;;Anonymous;;;October 14, 2009;;;July 16, 2021;;;English;;;Daniel Fromont;;;\data\books_data\30254-0.txt
+Leviathan;;;Thomas Hobbes;;;July 2, 2002;;;March 27, 2021;;;English;;;Edward White and David Widger;;;\data\books_data\3207-0.txt
+Japanese Girls and Women Revised and Enlarged Edition;;;Alice Mabel Bacon;;;May 20, 2010;;;;;;English;;;Juliet Sutherland, S.D., and the Online;;;\data\books_data\32449-0.txt
+The Time Machine;;;H. G. Wells;;;July, 1992;;;October 22, 2020;;;English;;;;;;\data\books_data\35-0.txt
+The Essays of Montaigne, Complete;;;Michel de Montaigne;;;September 17, 2006;;;August 8, 2016;;;English;;;David Widger;;;\data\books_data\3600-0.txt
+Pygmalion;;;George Bernard Shaw;;;March 1, 2003;;;April 13, 2021;;;English;;;Eve Sobol. HTML version by Al Haines.;;;\data\books_data\3825-0.txt
+The Souls of Black Folk;;;W. E. B. Du Bois;;;January, 1996;;;August 11, 2021;;;English;;;;;;\data\books_data\408-0.txt
+The Legend of Sleepy Hollow;;;Washington Irving;;;October, 1992;;;September 14, 2016;;;English;;;Ilana M. (Kingsley) Newby and Greg Newby;;;\data\books_data\41-0.txt
+The Strange Case Of Dr. Jekyll And Mr. Hyde;;;Robert Louis Stevenson;;;October 31, 1992;;;March 19, 2021;;;English;;;David Widger;;;\data\books_data\43-0.txt
+Ulysses;;;James Joyce;;;December 27, 2001;;;December 27, 2019;;;English;;;Col Choat and David Widger;;;\data\books_data\4300-0.txt
+Ang "Filibusterismo" (Karugtóng ng Noli Me Tangere);;;José Rizal;;;December 11, 2014;;;;;;Tagalog;;;Marie Bartolo (etexts.bartolomarie@gmail.com);;;\data\books_data\47629-0.txt
+Metamorphosis;;;Franz Kafka;;;May 13, 2002;;;May 20, 2012;;;English;;;;;;\data\books_data\5200-0.txt
+The Wonderful Wizard of Oz;;;L. Frank Baum;;;February, 1993;;;October 19, 2020;;;English;;;;;;\data\books_data\55-0.txt
+Oliver Twist;;;Charles Dickens;;;November, 1996;;;May 24, 2021;;;English;;;Peggy Gaugy and Leigh Little. HTML version by Al Haines.;;;\data\books_data\730-0.txt
+The Adventures of Tom Sawyer;;;Mark Twain (Samuel Clemens);;;July, 1993;;;March 29, 2021;;;English;;;David Widger;;;\data\books_data\74-0.txt
+Adventures of Huckleberry Finn;;;Mark Twain (Samuel Clemens);;;August, 1993;;;February 21, 2021;;;English;;;David Widger;;;\data\books_data\76-0.txt
+David Copperfield;;;Charles Dickens;;;December, 1996;;;September 25, 2016;;;English;;;Jo Churcher;;;\data\books_data\766-0.txt
+Gulliver’s Travels into several remote nations of the world;;;Jonathan Swift;;;February 20, 1997;;;August 17, 2021;;;English;;;David Price;;;\data\books_data\829-0.txt
+Frankenstein or, The Modern Prometheus;;;Mary Wollstonecraft (Godwin) Shelley;;;31, 1993;;;November 13, 2020;;;English;;;Judith Boss, Christy Phillips, Lynn Hanninen, and David Meltzer. HTML version by Al Haines.;;;\data\books_data\84-0.txt
+The Importance of Being Earnest A Trivial Comedy for Serious People;;;Oscar Wilde;;;March 8, 1997;;;February 13, 2021;;;English;;;David Price;;;\data\books_data\844-0.txt
+A Tale of Two Cities A Story of the French Revolution;;;Charles Dickens;;;January, 1994;;;December 20, 2020;;;English;;;Judith Boss and David Widger;;;\data\books_data\98-0.txt
+The King James Bible;;;;;;August, 1989;;;December 20, 2021;;;English;;;;;;\data\books_data\pg10.txt
+Persuasion;;;Jane Austen;;;June 5, 2008;;;February 15, 2015;;;English;;;Sharon Partridge and Martin Ward. HTML version;;;\data\books_data\pg105.txt
+The Reign of Greed Complete English Version of 'El Filibusterismo';;;Jose Rizal;;;October 10, 2005;;;;;;English;;;Jeroen Hellingman and the distributed proofreaders team;;;\data\books_data\pg10676.txt
+The Count of Monte Cristo;;;Alexandre Dumas, père;;;January, 1998;;;February 26, 2022;;;English;;;Anonymous Project Gutenberg Volunteers, Dan Muller and David Widger;;;\data\books_data\pg1184.txt
+The Republic;;;Plato;;;October, 1998;;;September 11, 2021;;;English;;;Sue Asscher and David Widger;;;\data\books_data\pg1497.txt
+Romeo and Juliet;;;William Shakespeare;;;November, 1998;;;May 11, 2022;;;English;;;the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers.;;;\data\books_data\pg1513.txt
+Emma;;;Jane Austen;;;August, 1994;;;December 14, 2021;;;English;;;An Anonymous Volunteer and David Widger;;;\data\books_data\pg158.txt
+Dead Men Tell No Tales;;;E. W. Hornung;;;April, 1999;;;June 10, 2022;;;English;;;An Anonymous Project Gutenberg Volunteer.;;;\data\books_data\pg1703.txt
+The Odyssey;;;Homer;;;April, 1999;;;January 4, 2022;;;English;;;Jim Tinsley and David Widger;;;\data\books_data\pg1727.txt
+The Insidious Dr. Fu-Manchu;;;Sax Rohmer;;;May 24, 2008;;;October 13, 2012;;;English;;;;;;\data\books_data\pg173.txt
+The Picture of Dorian Gray;;;Oscar Wilde;;;October, 1994;;;February 3, 2022;;;English;;;Judith Boss. HTML version by Al Haines.;;;\data\books_data\pg174.txt
+Autobiography of Benjamin Franklin;;;Benjamin Franklin;;;December 28, 2006;;;;;;English;;;Turgut Dincer, Brian Sogard and the Online;;;\data\books_data\pg20203.txt
+Noli Me Tangere;;;Jose Rizal;;;December 30, 2006;;;;;;Tagalog;;;Tamiko I. Camacho, Pilar Somoza, and the Online;;;\data\books_data\pg20228.txt
+Uncle Tom’s Cabin;;;Harriet Beecher Stowe;;;January, 1995;;;October 28, 2021;;;English;;;Judith Boss, an Anonymous Volunteer and David Widger;;;\data\books_data\pg203.txt
+The Works of Edgar Allan Poe, Volume 2;;;Edgar Allan Poe;;;April, 2000;;;November 18, 2021;;;English;;;David Widger;;;\data\books_data\pg2148.txt
+Siddhartha;;;Herman Hesse;;;February, 2001;;;December 22, 2021;;;English;;;Michael Pullen, Chandra Yenco and Isaac Jones;;;\data\books_data\pg2500.txt
+The Scarlet Letter;;;Nathaniel Hawthorne;;;May 22, May 5, 2008;;;October 19, 2021;;;English;;;Markus Brenner, Irma Spehar and the Online Distributed Proofreading Team;;;\data\books_data\pg25344.txt
+War and Peace;;;Leo Tolstoy;;;April, 2001;;;June 14, 2022;;;English;;;An Anonymous Volunteer and David Widger;;;\data\books_data\pg2600.txt
+Simple Sabotage Field Manual;;;Office of Strategic Services;;;August 4, 2008;;;February 28, 2022;;;English;;;David Reed;;;\data\books_data\pg26184.txt
+The Kama Sutra of Vatsyayana Translated From The Sanscrit In Seven Parts With Preface, Introduction and Concluding Remarks;;;Vatsyayana;;;January 18, 2009;;;;;;English;;;Bruce Albrecht, Carla Foust, Jon Noring and;;;\data\books_data\pg27827.txt
+Josefine Mutzenbacher oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt;;;Felix Salten;;;February 15, 2010;;;;;;German;;;Norbert H. Langkau, Jana Srna and the Online;;;\data\books_data\pg31284.txt
+Moby Language, II;;;Grady Ward;;;May, 2002;;;September 28, 2019;;;English;;;Mike Pullen;;;\data\books_data\pg3206.txt
+Dracula;;;Bram Stoker;;;October, 1995;;;April 27, 2022;;;English;;;Chuck Greif and the Online Distributed Proofreading Team;;;\data\books_data\pg345.txt
+The Philippines A Century Hence;;;Jose Rizal;;;April 18, 2011;;;;;;English;;;Jeroen Hellingman and the Online Distributed;;;\data\books_data\pg35899.txt
+The War of the Worlds;;;H. G. Wells;;;July 1992;;;November 27, 2021;;;English;;;;;;\data\books_data\pg36.txt
+A Pickle For The Knowing Ones;;;Lord Timothy Dexter;;;August 12, 2013;;;;;;English;;;David Edwards, David Garcia and the Online;;;\data\books_data\pg43453.txt
+Beyond Good and Evil;;;Friedrich Nietzsche;;;August, 2003;;;;;;English;;;John Mamoun, Charles Franks and the Online;;;\data\books_data\pg4363.txt
+Anne of Green Gables;;;Lucy Maud Montgomery;;;1992;;;November 19, 2021;;;English;;;David Widger and Charles Keller;;;\data\books_data\pg45.txt
+A Christmas Carol A Ghost Story of Christmas;;;Charles Dickens;;;1992;;;March 4, 2018;;;English;;;Jose Menendez and David Widger;;;\data\books_data\pg46.txt
+Old Granny Fox;;;Thornton W. Burgess;;;April 7, 2002;;;November 9, 2021;;;English;;;Kent Fielden and David Widger;;;\data\books_data\pg4980.txt
+Little Women;;;Louisa May Alcott;;;May, 1996;;;November 27, 2021;;;English;;;the ‘resting and reveling’ process. The days kept getting;;;\data\books_data\pg514.txt
+The Prophet;;;Kahlil Gibran;;;January 1, 2019;;;December 23, 2021;;;English;;;David Widger;;;\data\books_data\pg58585.txt
+Notes from the Underground;;;Fyodor Dostoyevsky;;;July, 1996;;;December 26, 2021;;;English;;;Judith Boss. HTML version by Al Haines;;;\data\books_data\pg600.txt
+The Iliad;;;Homer;;;November 17, 2002;;;April 23, 2022;;;English;;;Anne Soulard, Juliet Sutherland, Charles Franks, and The Online Distributed Proofreading Team;;;\data\books_data\pg6130.txt
+The Great Gatsby;;;F. Scott Fitzgerald;;;January 17, 2021;;;January 24 2021;;;English;;;Alex Cabal for the Standard Ebooks project, based on a;;;\data\books_data\pg64317.txt
+Winnie-the-Pooh;;;A. A. Milne;;;January 3, 2022;;;;;;English;;;Greg Weeks, Mary Meehan, Iona Vaughan, David T. Jones and the;;;\data\books_data\pg67098.txt
+The Social Cancer A Complete English Version of Noli Me Tangere;;;José Rizal;;;June 17, 2007;;;;;;English;;;Jeroen Hellingman.;;;\data\books_data\pg6737.txt
+Second Treatise of Government;;;John Locke;;;April 22, 2003;;;December 25, 2021;;;English;;;Dave Gowan and Chuck Greif;;;\data\books_data\pg7370.txt
+Wuthering Heights;;;Emily Brontë;;;December, 1996;;;January 18, 2022;;;English;;;David Price;;;\data\books_data\pg768.txt
+The King in Yellow;;;Robert W. Chambers;;;July, 2005;;;;;;English;;;Suzanne Shell, Beth Trapaga, Charles Franks,;;;\data\books_data\pg8492.txt
+The Mysterious Affair at Styles;;;Agatha Christie;;;March, 1997;;;December 26, 2021;;;English;;;Charles Keller;;;\data\books_data\pg863.txt
+The Happy Prince and Other Tales;;;Oscar Wilde;;;May 6, 1997;;;October 25, 2021;;;English;;;David Price and Paul Redmond;;;\data\books_data\pg902.txt
+The History of Don Quixote;;;Miguel de Cervantes Saavedra;;;July, 1997;;;February 28, 2022;;;English;;;David Widger;;;\data\books_data\pg996.txt

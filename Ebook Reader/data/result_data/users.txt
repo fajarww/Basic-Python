@@ -1,0 +1,6 @@
+1650247549;;;Fajar;;;123;;;Reader;;;['Around the World in Eighty Days', 'Alice’s Adventures in Wonderland', 'The Secret Garden', 'Around the World in Eighty Days'];;;[('Around the World in Eighty Days', '2'), ('Alice’s Adventures in Wonderland', '4')]
+8406671598;;;Witama;;;123;;;Reader;;;[];;;[]
+4545225622;;;Wijaya;;;123;;;Reader
+5969989255;;;dwi;;;123;;;Administrator;;;[];;;[]
+9763617181;;;Faiz;;;123;;;Reader;;;[];;;[]
+2717724912;;;Fawwaz;;;445;;;Reader;;;['Around the World in Eighty Days', 'Anthem'];;;[]
